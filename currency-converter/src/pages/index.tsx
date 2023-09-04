@@ -44,7 +44,7 @@ const IndexPage = () => {
     <div className="container">
       <h1 className="title">Conversor de Moedas</h1>
       <div className="inputContainer">
-        <p className="inputLabel">Insira o valor em Real Brasileiro (BRL) para converter:</p>
+        <p className="inputLabel">Insira o valor em Real Brasileiro (BRL) para converter em USD, EUR e INR:</p>
         <input
           type="text"
           value={amount}
